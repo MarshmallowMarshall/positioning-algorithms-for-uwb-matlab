@@ -17,10 +17,10 @@ function dhdx = citrackMeasurementJacobianFcn(xk)
 % dhdx = [1 0];
 
 % Known anchors Positions in 2D at TWB
-A0_2d = [0, 0];          
-A1_2d = [5.77, 0]; 
-A2_2d = [5.55, 5.69];
-A3_2d = [0, 5.65];
+A0_2d = [4.22, -0.09];          
+A1_2d = [3.72, 1.71]; 
+A2_2d = [0, 1.5];
+A3_2d = [0, 0];
 
 % Known anchors positions in Sporthall
 % A0_2d = [0, 0];          

@@ -19,7 +19,7 @@ function x = citrackStateFcn(x)
 %%%%  Self-implementation of the State Function 
 %%%% For navigation and tracking, the state is linear using Newton law
 
-  dt = 0.1; % [s] Sample time
+  dt = 0.8; % [s] Sample time
     
 % State Transition Matrix
 %   A = [1  0   dt  0;

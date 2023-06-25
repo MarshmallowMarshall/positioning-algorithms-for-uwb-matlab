@@ -1,0 +1,6727 @@
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Scanning ROS bag file "uwb_range.bag"
+# for the following topics:
+#    ALL TOPICS in the bag file
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       1
+# timestamp (sec): 1687573383.555690050
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1557, 970, 3151, 3259, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3000341313, 3000690754, 3001040198, 3001389639, 0, 0, 0, 0]
+poll_tx_time: 1148292
+range_number: 101
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       2
+# timestamp (sec): 1687573383.634614229
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 947, 3133, 3278, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3020308774, 3020658213, 3021007660, 3021357100, 0, 0, 0, 0]
+poll_tx_time: 1148372
+range_number: 102
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       3
+# timestamp (sec): 1687573383.712646246
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1533, 952, 3156, 3250, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3040276705, 3040626145, 3040975591, 3041325032, 0, 0, 0, 0]
+poll_tx_time: 1148452
+range_number: 103
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       4
+# timestamp (sec): 1687573383.794485807
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 942, 3165, 3273, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3060243806, 3060593245, 3060942690, 3061292131, 0, 0, 0, 0]
+poll_tx_time: 1148532
+range_number: 104
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       5
+# timestamp (sec): 1687573383.874630690
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 928, 3189, 3306, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3080211639, 3080561079, 3080910526, 3081259965, 0, 0, 0, 0]
+poll_tx_time: 1148612
+range_number: 105
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       6
+# timestamp (sec): 1687573383.954442739
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1524, 1003, 3203, 3297, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3100179169, 3100528609, 3100878055, 3101227496, 0, 0, 0, 0]
+poll_tx_time: 1148692
+range_number: 106
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       7
+# timestamp (sec): 1687573384.034532785
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1505, 919, 3203, 3297, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3120146742, 3120496183, 3120845626, 3121195066, 0, 0, 0, 0]
+poll_tx_time: 1148772
+range_number: 107
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       8
+# timestamp (sec): 1687573384.114573956
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 966, 3217, 3292, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3140114631, 3140464072, 3140813518, 3141162957, 0, 0, 0, 0]
+poll_tx_time: 1148852
+range_number: 108
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       9
+# timestamp (sec): 1687573384.194381714
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1557, 924, 3156, 3302, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3160081982, 3160431422, 3160780867, 3161130308, 0, 0, 0, 0]
+poll_tx_time: 1148932
+range_number: 109
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       10
+# timestamp (sec): 1687573384.274452209
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 966, 3264, 3297, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3180049773, 3180399214, 3180748658, 3181098100, 0, 0, 0, 0]
+poll_tx_time: 1149012
+range_number: 110
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       11
+# timestamp (sec): 1687573384.354433060
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 970, 3184, 3306, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3200016916, 3200366356, 3200715802, 3201065241, 0, 0, 0, 0]
+poll_tx_time: 1149092
+range_number: 111
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       12
+# timestamp (sec): 1687573384.434425354
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 956, 3222, 3330, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3219984541, 3220333982, 3220683427, 3221032867, 0, 0, 0, 0]
+poll_tx_time: 1149172
+range_number: 112
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       13
+# timestamp (sec): 1687573384.514464378
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1585, 909, 3264, 3325, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3239952322, 3240301762, 3240651207, 3241000648, 0, 0, 0, 0]
+poll_tx_time: 1149252
+range_number: 113
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       14
+# timestamp (sec): 1687573384.594470739
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 891, 3241, 3306, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3259919517, 3260268958, 3260618402, 3260967843, 0, 0, 0, 0]
+poll_tx_time: 1149332
+range_number: 114
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       15
+# timestamp (sec): 1687573384.674637079
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 928, 3222, 3334, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3279887132, 3280236572, 3280586018, 3280935457, 0, 0, 0, 0]
+poll_tx_time: 1149412
+range_number: 115
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       16
+# timestamp (sec): 1687573384.755325079
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1538, 900, 3269, 3320, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3299854883, 3300204324, 3300553769, 3300903210, 0, 0, 0, 0]
+poll_tx_time: 1149492
+range_number: 116
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       17
+# timestamp (sec): 1687573384.835453033
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1538, 966, 3231, 3339, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3319822496, 3320171936, 3320521381, 3320870820, 0, 0, 0, 0]
+poll_tx_time: 1149572
+range_number: 117
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       18
+# timestamp (sec): 1687573384.915633917
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 1013, 3236, 3320, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3339790163, 3340139604, 3340489050, 3340838489, 0, 0, 0, 0]
+poll_tx_time: 1149652
+range_number: 118
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       19
+# timestamp (sec): 1687573384.995140076
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1566, 966, 3217, 3316, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3359757638, 3360107078, 3360456523, 3360805964, 0, 0, 0, 0]
+poll_tx_time: 1149732
+range_number: 119
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       20
+# timestamp (sec): 1687573385.075009584
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 914, 3269, 3391, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3379725417, 3380074858, 3380424303, 3380773742, 0, 0, 0, 0]
+poll_tx_time: 1149812
+range_number: 120
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       21
+# timestamp (sec): 1687573385.155275106
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1524, 886, 3273, 3358, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3399692684, 3400042124, 3400391568, 3400741009, 0, 0, 0, 0]
+poll_tx_time: 1149892
+range_number: 121
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       22
+# timestamp (sec): 1687573385.235079050
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1533, 919, 3287, 3325, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3419660255, 3420009696, 3420359142, 3420708582, 0, 0, 0, 0]
+poll_tx_time: 1149972
+range_number: 122
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       23
+# timestamp (sec): 1687573385.314774752
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 1022, 3269, 3344, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3439627882, 3439977322, 3440326767, 3440676206, 0, 0, 0, 0]
+poll_tx_time: 1150052
+range_number: 123
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       24
+# timestamp (sec): 1687573385.394599915
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 961, 3259, 3339, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3459595397, 3459944838, 3460294283, 3460643723, 0, 0, 0, 0]
+poll_tx_time: 1150132
+range_number: 124
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       25
+# timestamp (sec): 1687573385.475129604
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1604, 905, 3287, 3320, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3479562844, 3479912284, 3480261728, 3480611170, 0, 0, 0, 0]
+poll_tx_time: 1150212
+range_number: 125
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       26
+# timestamp (sec): 1687573385.554797649
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 881, 3273, 3330, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3499530913, 3499880354, 3500229800, 3500579239, 0, 0, 0, 0]
+poll_tx_time: 1150292
+range_number: 126
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       27
+# timestamp (sec): 1687573385.634763479
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1538, 858, 3287, 3348, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3519498166, 3519847606, 3520197051, 3520546491, 0, 0, 0, 0]
+poll_tx_time: 1150372
+range_number: 127
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       28
+# timestamp (sec): 1687573385.712193966
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1557, 938, 3273, 3372, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3539465945, 3539815386, 3540164831, 3540514272, 0, 0, 0, 0]
+poll_tx_time: 1150452
+range_number: 128
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       29
+# timestamp (sec): 1687573385.794676304
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 877, 3297, 3372, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3559433254, 3559782694, 3560132139, 3560481579, 0, 0, 0, 0]
+poll_tx_time: 1150532
+range_number: 129
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       30
+# timestamp (sec): 1687573385.874581814
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 975, 3273, 3377, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3579400699, 3579750140, 3580099586, 3580449026, 0, 0, 0, 0]
+poll_tx_time: 1150612
+range_number: 130
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       31
+# timestamp (sec): 1687573385.954686165
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 924, 3339, 3377, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3599368603, 3599718044, 3600067490, 3600416930, 0, 0, 0, 0]
+poll_tx_time: 1150692
+range_number: 131
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       32
+# timestamp (sec): 1687573386.034910202
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1510, 919, 3302, 3377, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3619336230, 3619685670, 3620035115, 3620384555, 0, 0, 0, 0]
+poll_tx_time: 1150772
+range_number: 132
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       33
+# timestamp (sec): 1687573386.118119240
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 867, 3302, 3400, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3639303689, 3639653130, 3640002575, 3640352016, 0, 0, 0, 0]
+poll_tx_time: 1150852
+range_number: 133
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       34
+# timestamp (sec): 1687573386.195093870
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1529, 858, 3264, 3381, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3659271484, 3659620924, 3659970370, 3660319809, 0, 0, 0, 0]
+poll_tx_time: 1150932
+range_number: 134
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       35
+# timestamp (sec): 1687573386.275481939
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1594, 848, 3391, 3381, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3679238597, 3679588038, 3679937484, 3680286923, 0, 0, 0, 0]
+poll_tx_time: 1151012
+range_number: 135
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       36
+# timestamp (sec): 1687573386.354896069
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1482, 895, 3297, 3358, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3699206460, 3699555900, 3699905345, 3700254786, 0, 0, 0, 0]
+poll_tx_time: 1151092
+range_number: 136
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       37
+# timestamp (sec): 1687573386.434606075
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1482, 863, 3287, 3377, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3719173767, 3719523209, 3719872653, 3720222093, 0, 0, 0, 0]
+poll_tx_time: 1151172
+range_number: 137
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       38
+# timestamp (sec): 1687573386.514807463
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1491, 975, 3344, 3386, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3739141339, 3739490779, 3739840225, 3740189666, 0, 0, 0, 0]
+poll_tx_time: 1151252
+range_number: 138
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       39
+# timestamp (sec): 1687573386.594984055
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1510, 980, 3344, 3395, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3759109062, 3759458501, 3759807948, 3760157387, 0, 0, 0, 0]
+poll_tx_time: 1151332
+range_number: 139
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       40
+# timestamp (sec): 1687573386.674989223
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1510, 933, 3334, 3386, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3779076369, 3779425809, 3779775256, 3780124695, 0, 0, 0, 0]
+poll_tx_time: 1151412
+range_number: 140
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       41
+# timestamp (sec): 1687573386.754492044
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 914, 3353, 3386, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3799044164, 3799393603, 3799743049, 3800092490, 0, 0, 0, 0]
+poll_tx_time: 1151492
+range_number: 141
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       42
+# timestamp (sec): 1687573386.836356401
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 905, 3330, 3400, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3819011733, 3819361173, 3819710619, 3820060059, 0, 0, 0, 0]
+poll_tx_time: 1151572
+range_number: 142
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       43
+# timestamp (sec): 1687573386.914672136
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 914, 3339, 3400, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3838979195, 3839328635, 3839678081, 3840027522, 0, 0, 0, 0]
+poll_tx_time: 1151652
+range_number: 143
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       44
+# timestamp (sec): 1687573386.994557142
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1557, 909, 3316, 3428, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3858947086, 3859296526, 3859645970, 3859995411, 0, 0, 0, 0]
+poll_tx_time: 1151732
+range_number: 144
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       45
+# timestamp (sec): 1687573387.074694633
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1533, 909, 3339, 3391, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3878914225, 3879263666, 3879613112, 3879962552, 0, 0, 0, 0]
+poll_tx_time: 1151812
+range_number: 145
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       46
+# timestamp (sec): 1687573387.155934095
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 844, 3297, 3452, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3898882116, 3899231556, 3899581002, 3899930442, 0, 0, 0, 0]
+poll_tx_time: 1151892
+range_number: 146
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       47
+# timestamp (sec): 1687573387.234782457
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 820, 3292, 3423, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3918849479, 3919198920, 3919548365, 3919897805, 0, 0, 0, 0]
+poll_tx_time: 1151972
+range_number: 147
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       48
+# timestamp (sec): 1687573387.314691305
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1594, 858, 3269, 3395, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3938817299, 3939166740, 3939516185, 3939865626, 0, 0, 0, 0]
+poll_tx_time: 1152052
+range_number: 148
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       49
+# timestamp (sec): 1687573387.394563913
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 825, 3241, 3423, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3958784886, 3959134327, 3959483771, 3959833211, 0, 0, 0, 0]
+poll_tx_time: 1152132
+range_number: 149
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       50
+# timestamp (sec): 1687573387.475654364
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 970, 3273, 3395, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3978752247, 3979101687, 3979451132, 3979800574, 0, 0, 0, 0]
+poll_tx_time: 1152212
+range_number: 150
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       51
+# timestamp (sec): 1687573387.555031300
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1585, 924, 3287, 3423, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3998720123, 3999069563, 3999419010, 3999768448, 0, 0, 0, 0]
+poll_tx_time: 1152292
+range_number: 151
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       52
+# timestamp (sec): 1687573387.634502172
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 924, 3292, 3409, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4018687544, 4019036983, 4019386430, 4019735869, 0, 0, 0, 0]
+poll_tx_time: 1152372
+range_number: 152
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       53
+# timestamp (sec): 1687573387.714630365
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1580, 905, 3367, 3442, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4038655155, 4039004595, 4039354042, 4039703482, 0, 0, 0, 0]
+poll_tx_time: 1152452
+range_number: 153
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       54
+# timestamp (sec): 1687573387.795091629
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1566, 867, 3372, 3414, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4058622629, 4058972070, 4059321515, 4059670955, 0, 0, 0, 0]
+poll_tx_time: 1152532
+range_number: 154
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       55
+# timestamp (sec): 1687573387.876219988
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 942, 3353, 3470, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4078590048, 4078939488, 4079288933, 4079638374, 0, 0, 0, 0]
+poll_tx_time: 1152612
+range_number: 155
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       56
+# timestamp (sec): 1687573387.955215216
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1594, 947, 3325, 3433, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4098557771, 4098907212, 4099256657, 4099606097, 0, 0, 0, 0]
+poll_tx_time: 1152692
+range_number: 156
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       57
+# timestamp (sec): 1687573388.035189867
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 844, 3320, 3447, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4118525551, 4118874993, 4119224436, 4119573878, 0, 0, 0, 0]
+poll_tx_time: 1152772
+range_number: 157
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       58
+# timestamp (sec): 1687573388.115313292
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1575, 980, 3320, 3447, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4138492916, 4138842355, 4139191802, 4139541242, 0, 0, 0, 0]
+poll_tx_time: 1152852
+range_number: 158
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       59
+# timestamp (sec): 1687573388.195293903
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 891, 3325, 3428, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4158460693, 4158810133, 4159159580, 4159509019, 0, 0, 0, 0]
+poll_tx_time: 1152932
+range_number: 159
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       60
+# timestamp (sec): 1687573388.274968147
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1571, 970, 3325, 3461, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4178428015, 4178777455, 4179126902, 4179476342, 0, 0, 0, 0]
+poll_tx_time: 1153012
+range_number: 160
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       61
+# timestamp (sec): 1687573388.355798483
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 891, 3339, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4198395906, 4198745346, 4199094792, 4199444231, 0, 0, 0, 0]
+poll_tx_time: 1153092
+range_number: 161
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       62
+# timestamp (sec): 1687573388.435961008
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1552, 891, 3334, 3456, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4218363478, 4218712918, 4219062363, 4219411804, 0, 0, 0, 0]
+poll_tx_time: 1153172
+range_number: 162
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       63
+# timestamp (sec): 1687573388.515572548
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1557, 877, 3348, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4238330825, 4238680266, 4239029711, 4239379151, 0, 0, 0, 0]
+poll_tx_time: 1153252
+range_number: 163
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       64
+# timestamp (sec): 1687573388.595337391
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1547, 891, 3377, 3466, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4258298299, 4258647739, 4258997185, 4259346626, 0, 0, 0, 0]
+poll_tx_time: 1153332
+range_number: 164
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       65
+# timestamp (sec): 1687573388.675484180
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1514, 966, 3400, 3466, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4278265914, 4278615353, 4278964799, 4279314240, 0, 0, 0, 0]
+poll_tx_time: 1153412
+range_number: 165
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       66
+# timestamp (sec): 1687573388.755601168
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1514, 919, 3372, 3466, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3266396, 3615836, 3965281, 4314721, 0, 0, 0, 0]
+poll_tx_time: 1153492
+range_number: 166
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       67
+# timestamp (sec): 1687573388.835347891
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1561, 956, 3395, 3475, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [23233869, 23583310, 23932755, 24282196, 0, 0, 0, 0]
+poll_tx_time: 1153572
+range_number: 167
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       68
+# timestamp (sec): 1687573388.915900469
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1500, 867, 3391, 3470, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [43201538, 43550980, 43900425, 44249865, 0, 0, 0, 0]
+poll_tx_time: 1153652
+range_number: 168
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       69
+# timestamp (sec): 1687573388.995942593
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1543, 881, 3386, 3475, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [63168860, 63518299, 63867746, 64217186, 0, 0, 0, 0]
+poll_tx_time: 1153732
+range_number: 169
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       70
+# timestamp (sec): 1687573389.075733185
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1500, 881, 3377, 3466, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [83136473, 83485913, 83835360, 84184799, 0, 0, 0, 0]
+poll_tx_time: 1153812
+range_number: 170
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       71
+# timestamp (sec): 1687573389.155828953
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1533, 886, 3367, 3484, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [103104251, 103453692, 103803138, 104152578, 0, 0, 0, 0]
+poll_tx_time: 1153892
+range_number: 171
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       72
+# timestamp (sec): 1687573389.236374140
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1505, 961, 3386, 3475, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [123071725, 123421166, 123770612, 124120051, 0, 0, 0, 0]
+poll_tx_time: 1153972
+range_number: 172
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       73
+# timestamp (sec): 1687573389.316406488
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1496, 802, 3395, 3517, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [143039008, 143388448, 143737894, 144087334, 0, 0, 0, 0]
+poll_tx_time: 1154052
+range_number: 173
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       74
+# timestamp (sec): 1687573389.395905256
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1510, 947, 3409, 3527, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [163006870, 163356309, 163705756, 164055196, 0, 0, 0, 0]
+poll_tx_time: 1154132
+range_number: 174
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       75
+# timestamp (sec): 1687573389.474853277
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1482, 895, 3386, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [182974287, 183323727, 183673174, 184022613, 0, 0, 0, 0]
+poll_tx_time: 1154212
+range_number: 175
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       76
+# timestamp (sec): 1687573389.555419683
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1496, 984, 3438, 3517, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [202941747, 203291188, 203640634, 203990074, 0, 0, 0, 0]
+poll_tx_time: 1154292
+range_number: 176
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       77
+# timestamp (sec): 1687573389.635854483
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1477, 980, 3405, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [222909748, 223259190, 223608635, 223958075, 0, 0, 0, 0]
+poll_tx_time: 1154372
+range_number: 177
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       78
+# timestamp (sec): 1687573389.715330839
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 891, 3409, 3456, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [242877252, 243226691, 243576137, 243925578, 0, 0, 0, 0]
+poll_tx_time: 1154452
+range_number: 178
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       79
+# timestamp (sec): 1687573389.795104504
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1463, 895, 3433, 3480, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [262844574, 263194013, 263543459, 263892899, 0, 0, 0, 0]
+poll_tx_time: 1154532
+range_number: 179
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       80
+# timestamp (sec): 1687573389.875921011
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 980, 3405, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [282812005, 283161446, 283510891, 283860332, 0, 0, 0, 0]
+poll_tx_time: 1154612
+range_number: 180
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       81
+# timestamp (sec): 1687573389.956036568
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1458, 961, 3405, 3513, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [302779811, 303129252, 303478697, 303828137, 0, 0, 0, 0]
+poll_tx_time: 1154692
+range_number: 181
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       82
+# timestamp (sec): 1687573390.035016775
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1468, 975, 3367, 3484, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [322747495, 323096935, 323446381, 323795822, 0, 0, 0, 0]
+poll_tx_time: 1154772
+range_number: 182
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       83
+# timestamp (sec): 1687573390.114629984
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1430, 980, 3428, 3545, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [342714748, 343064187, 343413633, 343763073, 0, 0, 0, 0]
+poll_tx_time: 1154852
+range_number: 183
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       84
+# timestamp (sec): 1687573390.195509672
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1458, 980, 3475, 3489, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [362682472, 363031912, 363381357, 363730798, 0, 0, 0, 0]
+poll_tx_time: 1154932
+range_number: 184
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       85
+# timestamp (sec): 1687573390.275209665
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1416, 952, 3433, 3484, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [382650042, 382999482, 383348927, 383698367, 0, 0, 0, 0]
+poll_tx_time: 1155012
+range_number: 185
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       86
+# timestamp (sec): 1687573390.356027126
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1463, 952, 3470, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [402617571, 402967011, 403316457, 403665898, 0, 0, 0, 0]
+poll_tx_time: 1155092
+range_number: 186
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       87
+# timestamp (sec): 1687573390.435190201
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 947, 3517, 3484, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [422585143, 422934583, 423284029, 423633470, 0, 0, 0, 0]
+poll_tx_time: 1155172
+range_number: 187
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       88
+# timestamp (sec): 1687573390.515537739
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1439, 966, 3513, 3494, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [442552963, 442902404, 443251849, 443601289, 0, 0, 0, 0]
+poll_tx_time: 1155252
+range_number: 188
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       89
+# timestamp (sec): 1687573390.594977140
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1416, 970, 3559, 3569, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [462520326, 462869767, 463219213, 463568654, 0, 0, 0, 0]
+poll_tx_time: 1155332
+range_number: 189
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       90
+# timestamp (sec): 1687573390.674787521
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1411, 802, 3574, 3522, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [482487676, 482837115, 483186561, 483536001, 0, 0, 0, 0]
+poll_tx_time: 1155412
+range_number: 190
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       91
+# timestamp (sec): 1687573390.755485296
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1430, 905, 3545, 3522, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [502455526, 502804966, 503154411, 503503852, 0, 0, 0, 0]
+poll_tx_time: 1155492
+range_number: 191
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       92
+# timestamp (sec): 1687573390.836352825
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1435, 947, 3588, 3513, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [522423095, 522772536, 523121981, 523471421, 0, 0, 0, 0]
+poll_tx_time: 1155572
+range_number: 192
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       93
+# timestamp (sec): 1687573390.916589022
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1421, 928, 3635, 3522, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [542390721, 542740161, 543089607, 543439048, 0, 0, 0, 0]
+poll_tx_time: 1155652
+range_number: 193
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       94
+# timestamp (sec): 1687573390.995591402
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1364, 924, 3635, 3564, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [562358349, 562707790, 563057235, 563406675, 0, 0, 0, 0]
+poll_tx_time: 1155732
+range_number: 194
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       95
+# timestamp (sec): 1687573391.074996233
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1449, 933, 3639, 3559, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [582325809, 582675250, 583024695, 583374136, 0, 0, 0, 0]
+poll_tx_time: 1155812
+range_number: 195
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       96
+# timestamp (sec): 1687573391.155291557
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1397, 839, 3606, 3602, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [602293600, 602643041, 602992487, 603341927, 0, 0, 0, 0]
+poll_tx_time: 1155892
+range_number: 196
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       97
+# timestamp (sec): 1687573391.236443520
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1439, 834, 3569, 3644, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [622261174, 622610613, 622960059, 623309500, 0, 0, 0, 0]
+poll_tx_time: 1155972
+range_number: 197
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       98
+# timestamp (sec): 1687573391.315366030
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 839, 3545, 3583, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [642228634, 642578074, 642927519, 643276959, 0, 0, 0, 0]
+poll_tx_time: 1156052
+range_number: 198
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       99
+# timestamp (sec): 1687573391.395637751
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1477, 933, 3541, 3606, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [662195776, 662545215, 662894661, 663244102, 0, 0, 0, 0]
+poll_tx_time: 1156132
+range_number: 199
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       100
+# timestamp (sec): 1687573391.475722313
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1486, 928, 3545, 3616, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [682163818, 682513257, 682862703, 683212145, 0, 0, 0, 0]
+poll_tx_time: 1156212
+range_number: 200
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       101
+# timestamp (sec): 1687573391.556794167
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1477, 942, 3508, 3611, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [702131001, 702480442, 702829887, 703179328, 0, 0, 0, 0]
+poll_tx_time: 1156292
+range_number: 201
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       102
+# timestamp (sec): 1687573391.635265589
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1482, 900, 3574, 3663, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [722098711, 722448150, 722797598, 723147039, 0, 0, 0, 0]
+poll_tx_time: 1156372
+range_number: 202
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       103
+# timestamp (sec): 1687573391.715271235
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1482, 853, 3597, 3616, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [742066435, 742415875, 742765322, 743114762, 0, 0, 0, 0]
+poll_tx_time: 1156452
+range_number: 203
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       104
+# timestamp (sec): 1687573391.795645952
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 947, 3541, 3611, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [762033673, 762383114, 762732560, 763082001, 0, 0, 0, 0]
+poll_tx_time: 1156532
+range_number: 204
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       105
+# timestamp (sec): 1687573391.875288248
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1458, 914, 3564, 3653, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [782001743, 782351183, 782700630, 783050070, 0, 0, 0, 0]
+poll_tx_time: 1156612
+range_number: 205
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       106
+# timestamp (sec): 1687573391.955002785
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1454, 909, 3644, 3658, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [801968940, 802318381, 802667828, 803017268, 0, 0, 0, 0]
+poll_tx_time: 1156692
+range_number: 206
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       107
+# timestamp (sec): 1687573392.036120892
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1444, 764, 3677, 3639, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [821936512, 822285952, 822635398, 822984838, 0, 0, 0, 0]
+poll_tx_time: 1156772
+range_number: 207
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       108
+# timestamp (sec): 1687573392.115182161
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1374, 820, 3686, 3700, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [841904348, 842253787, 842603234, 842952674, 0, 0, 0, 0]
+poll_tx_time: 1156852
+range_number: 208
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       109
+# timestamp (sec): 1687573392.195913553
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1388, 933, 3649, 3625, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [861871488, 862220927, 862570374, 862919813, 0, 0, 0, 0]
+poll_tx_time: 1156932
+range_number: 209
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       110
+# timestamp (sec): 1687573392.275328636
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1355, 858, 3728, 3606, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [881839144, 882188584, 882538030, 882887470, 0, 0, 0, 0]
+poll_tx_time: 1157012
+range_number: 210
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       111
+# timestamp (sec): 1687573392.356802225
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1388, 942, 3620, 3658, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [901807172, 902156611, 902506058, 902855497, 0, 0, 0, 0]
+poll_tx_time: 1157092
+range_number: 211
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       112
+# timestamp (sec): 1687573392.435326099
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1350, 952, 3630, 3639, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [921774313, 922123753, 922473200, 922822640, 0, 0, 0, 0]
+poll_tx_time: 1157172
+range_number: 212
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       113
+# timestamp (sec): 1687573392.516185284
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1374, 877, 3677, 3658, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [941741885, 942091326, 942440772, 942790211, 0, 0, 0, 0]
+poll_tx_time: 1157252
+range_number: 213
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       114
+# timestamp (sec): 1687573392.596348047
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1360, 914, 3691, 3649, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [961709705, 962059145, 962408592, 962758032, 0, 0, 0, 0]
+poll_tx_time: 1157332
+range_number: 214
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       115
+# timestamp (sec): 1687573392.676890373
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1346, 900, 3738, 3639, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [981677027, 982026468, 982375915, 982725353, 0, 0, 0, 0]
+poll_tx_time: 1157412
+range_number: 215
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       116
+# timestamp (sec): 1687573392.755085707
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1332, 773, 3752, 3667, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1001644917, 1001994358, 1002343805, 1002693244, 0, 0, 0, 0]
+poll_tx_time: 1157492
+range_number: 216
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       117
+# timestamp (sec): 1687573392.835771322
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1336, 783, 3747, 3658, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1021612059, 1021961499, 1022310947, 1022660385, 0, 0, 0, 0]
+poll_tx_time: 1157572
+range_number: 217
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       118
+# timestamp (sec): 1687573392.916097879
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1336, 745, 3775, 3691, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1041580059, 1041929500, 1042278947, 1042628386, 0, 0, 0, 0]
+poll_tx_time: 1157652
+range_number: 218
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       119
+# timestamp (sec): 1687573392.995555878
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1280, 806, 3714, 3705, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1061547423, 1061896863, 1062246311, 1062595749, 0, 0, 0, 0]
+poll_tx_time: 1157732
+range_number: 219
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       120
+# timestamp (sec): 1687573393.075846672
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1317, 816, 3771, 3667, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1081514883, 1081864323, 1082213769, 1082563210, 0, 0, 0, 0]
+poll_tx_time: 1157812
+range_number: 220
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       121
+# timestamp (sec): 1687573393.156143427
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1228, 792, 3789, 3747, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1101482511, 1101831952, 1102181397, 1102530837, 0, 0, 0, 0]
+poll_tx_time: 1157892
+range_number: 221
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       122
+# timestamp (sec): 1687573393.236254930
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1275, 787, 3794, 3719, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1121450137, 1121799577, 1122149023, 1122498464, 0, 0, 0, 0]
+poll_tx_time: 1157972
+range_number: 222
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       123
+# timestamp (sec): 1687573393.315677166
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1303, 792, 3878, 3681, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1141418026, 1141767468, 1142116914, 1142466353, 0, 0, 0, 0]
+poll_tx_time: 1158052
+range_number: 223
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       124
+# timestamp (sec): 1687573393.395756245
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1294, 806, 3888, 3700, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1161385432, 1161734873, 1162084320, 1162433760, 0, 0, 0, 0]
+poll_tx_time: 1158132
+range_number: 224
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       125
+# timestamp (sec): 1687573393.476136684
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1313, 867, 3822, 3696, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181352712, 1181702153, 1182051600, 1182401039, 0, 0, 0, 0]
+poll_tx_time: 1158212
+range_number: 225
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       126
+# timestamp (sec): 1687573393.555346489
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1303, 783, 3864, 3714, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1201320243, 1201669684, 1202019130, 1202368570, 0, 0, 0, 0]
+poll_tx_time: 1158292
+range_number: 226
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       127
+# timestamp (sec): 1687573393.637401104
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1336, 797, 3860, 3714, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1221288133, 1221637573, 1221987020, 1222336459, 0, 0, 0, 0]
+poll_tx_time: 1158372
+range_number: 227
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       128
+# timestamp (sec): 1687573393.715605259
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1327, 797, 3874, 3719, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1241255607, 1241605048, 1241954494, 1242303934, 0, 0, 0, 0]
+poll_tx_time: 1158452
+range_number: 228
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       129
+# timestamp (sec): 1687573393.795645475
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1322, 839, 3874, 3724, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1261223455, 1261572895, 1261922343, 1262271781, 0, 0, 0, 0]
+poll_tx_time: 1158532
+range_number: 229
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       130
+# timestamp (sec): 1687573393.874927759
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1360, 755, 3944, 3733, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1281190527, 1281539967, 1281889415, 1282238854, 0, 0, 0, 0]
+poll_tx_time: 1158612
+range_number: 230
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       131
+# timestamp (sec): 1687573393.955082417
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1341, 764, 3874, 3733, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1301158099, 1301507538, 1301856987, 1302206425, 0, 0, 0, 0]
+poll_tx_time: 1158692
+range_number: 231
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       132
+# timestamp (sec): 1687573394.035392284
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1346, 703, 3921, 3747, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1321125851, 1321475291, 1321824739, 1322174178, 0, 0, 0, 0]
+poll_tx_time: 1158772
+range_number: 232
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       133
+# timestamp (sec): 1687573394.115603447
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1397, 792, 3916, 3747, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1341093575, 1341443016, 1341792461, 1342141901, 0, 0, 0, 0]
+poll_tx_time: 1158852
+range_number: 233
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       134
+# timestamp (sec): 1687573394.195078611
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1332, 769, 3822, 3775, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1361060883, 1361410323, 1361759770, 1362109210, 0, 0, 0, 0]
+poll_tx_time: 1158932
+range_number: 234
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       135
+# timestamp (sec): 1687573394.275139093
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1350, 755, 3963, 3808, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1381028663, 1381378104, 1381727550, 1382076989, 0, 0, 0, 0]
+poll_tx_time: 1159012
+range_number: 235
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       136
+# timestamp (sec): 1687573394.356273413
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1350, 820, 3986, 3808, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1400996455, 1401345895, 1401695342, 1402044782, 0, 0, 0, 0]
+poll_tx_time: 1159092
+range_number: 236
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       137
+# timestamp (sec): 1687573394.435693264
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1341, 830, 3892, 3766, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1420963749, 1421313190, 1421662636, 1422012075, 0, 0, 0, 0]
+poll_tx_time: 1159172
+range_number: 237
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       138
+# timestamp (sec): 1687573394.516500235
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1341, 820, 3850, 3799, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1440931100, 1441280539, 1441629987, 1441979426, 0, 0, 0, 0]
+poll_tx_time: 1159252
+range_number: 238
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       139
+# timestamp (sec): 1687573394.595905304
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1313, 919, 3968, 3780, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1460898852, 1461248292, 1461597739, 1461947177, 0, 0, 0, 0]
+poll_tx_time: 1159332
+range_number: 239
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       140
+# timestamp (sec): 1687573394.675592899
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1299, 886, 3958, 3775, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1480866520, 1481215959, 1481565407, 1481914846, 0, 0, 0, 0]
+poll_tx_time: 1159412
+range_number: 240
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       141
+# timestamp (sec): 1687573394.756108522
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1266, 881, 3766, 3733, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1500834034, 1501183475, 1501532921, 1501882361, 0, 0, 0, 0]
+poll_tx_time: 1159492
+range_number: 241
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       142
+# timestamp (sec): 1687573394.836148024
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1247, 792, 3747, 3794, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1520801716, 1521151156, 1521500603, 1521850044, 0, 0, 0, 0]
+poll_tx_time: 1159572
+range_number: 242
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       143
+# timestamp (sec): 1687573394.916745424
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1224, 694, 3733, 3850, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1540769176, 1541118617, 1541468064, 1541817503, 0, 0, 0, 0]
+poll_tx_time: 1159652
+range_number: 243
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       144
+# timestamp (sec): 1687573394.995737076
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 811, 3724, 3794, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1560736706, 1561086148, 1561435594, 1561785034, 0, 0, 0, 0]
+poll_tx_time: 1159732
+range_number: 244
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       145
+# timestamp (sec): 1687573395.075611591
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 839, 3775, 3864, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1580704057, 1581053497, 1581402944, 1581752383, 0, 0, 0, 0]
+poll_tx_time: 1159812
+range_number: 245
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       146
+# timestamp (sec): 1687573395.155677080
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 802, 3785, 3874, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1600671671, 1601021112, 1601370558, 1601719998, 0, 0, 0, 0]
+poll_tx_time: 1159892
+range_number: 246
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       147
+# timestamp (sec): 1687573395.235003471
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 797, 3813, 3878, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1620639241, 1620988681, 1621338128, 1621687567, 0, 0, 0, 0]
+poll_tx_time: 1159972
+range_number: 247
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       148
+# timestamp (sec): 1687573395.316370726
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 839, 3705, 3897, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1640606883, 1640956324, 1641305771, 1641655210, 0, 0, 0, 0]
+poll_tx_time: 1160052
+range_number: 248
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       149
+# timestamp (sec): 1687573395.395214081
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 802, 3780, 3907, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1660574661, 1660924101, 1661273549, 1661622987, 0, 0, 0, 0]
+poll_tx_time: 1160132
+range_number: 249
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       150
+# timestamp (sec): 1687573395.475100040
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 783, 3789, 3883, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1680541998, 1680891438, 1681240883, 1681590324, 0, 0, 0, 0]
+poll_tx_time: 1160212
+range_number: 250
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       151
+# timestamp (sec): 1687573395.555963755
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 727, 3761, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1700509958, 1700859397, 1701208843, 1701558284, 0, 0, 0, 0]
+poll_tx_time: 1160292
+range_number: 251
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       152
+# timestamp (sec): 1687573395.635351658
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 863, 3724, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1720477056, 1720826498, 1721175944, 1721525385, 0, 0, 0, 0]
+poll_tx_time: 1160372
+range_number: 252
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       153
+# timestamp (sec): 1687573395.715110064
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 891, 3738, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1740444670, 1740794111, 1741143558, 1741492998, 0, 0, 0, 0]
+poll_tx_time: 1160452
+range_number: 253
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       154
+# timestamp (sec): 1687573395.795458078
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 816, 3714, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1760412241, 1760761682, 1761111128, 1761460569, 0, 0, 0, 0]
+poll_tx_time: 1160532
+range_number: 254
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       155
+# timestamp (sec): 1687573395.874983072
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 811, 3752, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1780380091, 1780729531, 1781078979, 1781428418, 0, 0, 0, 0]
+poll_tx_time: 1160612
+range_number: 255
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       156
+# timestamp (sec): 1687573395.955647945
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 886, 3710, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1800347717, 1800697156, 1801046605, 1801396045, 0, 0, 0, 0]
+poll_tx_time: 1160692
+range_number: 0
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       157
+# timestamp (sec): 1687573396.035372734
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 834, 3705, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1820315233, 1820664674, 1821014119, 1821363560, 0, 0, 0, 0]
+poll_tx_time: 1160772
+range_number: 1
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       158
+# timestamp (sec): 1687573396.116003752
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 839, 3714, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1840282806, 1840632245, 1840981692, 1841331133, 0, 0, 0, 0]
+poll_tx_time: 1160852
+range_number: 2
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       159
+# timestamp (sec): 1687573396.195878506
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 816, 3719, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1860250098, 1860599540, 1860948986, 1861298426, 0, 0, 0, 0]
+poll_tx_time: 1160932
+range_number: 3
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       160
+# timestamp (sec): 1687573396.276553631
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 848, 3728, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1880217671, 1880567111, 1880916558, 1881265999, 0, 0, 0, 0]
+poll_tx_time: 1161012
+range_number: 4
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       161
+# timestamp (sec): 1687573396.355726242
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 863, 3691, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1900185575, 1900535016, 1900884463, 1901233902, 0, 0, 0, 0]
+poll_tx_time: 1161092
+range_number: 5
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       162
+# timestamp (sec): 1687573396.435075998
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 750, 3803, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1920153035, 1920502475, 1920851923, 1921201363, 0, 0, 0, 0]
+poll_tx_time: 1161172
+range_number: 6
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       163
+# timestamp (sec): 1687573396.514778376
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 853, 3724, 3916, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1940120884, 1940470322, 1940819769, 1941169210, 0, 0, 0, 0]
+poll_tx_time: 1161252
+range_number: 7
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       164
+# timestamp (sec): 1687573396.595256567
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 820, 3799, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1960088176, 1960437618, 1960787064, 1961136503, 0, 0, 0, 0]
+poll_tx_time: 1161332
+range_number: 8
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       165
+# timestamp (sec): 1687573396.675122261
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 811, 3696, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1980055597, 1980405037, 1980754484, 1981103925, 0, 0, 0, 0]
+poll_tx_time: 1161412
+range_number: 9
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       166
+# timestamp (sec): 1687573396.755135536
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 825, 3738, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2000023529, 2000372970, 2000722416, 2001071856, 0, 0, 0, 0]
+poll_tx_time: 1161492
+range_number: 10
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       167
+# timestamp (sec): 1687573396.835652828
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 769, 3696, 3897, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2019991057, 2020340497, 2020689945, 2021039385, 0, 0, 0, 0]
+poll_tx_time: 1161572
+range_number: 11
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       168
+# timestamp (sec): 1687573396.915142775
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 759, 3696, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2039958740, 2040308181, 2040657627, 2041007068, 0, 0, 0, 0]
+poll_tx_time: 1161652
+range_number: 12
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       169
+# timestamp (sec): 1687573396.995010853
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 820, 3728, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2059926200, 2060275642, 2060625088, 2060974529, 0, 0, 0, 0]
+poll_tx_time: 1161732
+range_number: 13
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       170
+# timestamp (sec): 1687573397.075171232
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 792, 3672, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2079893453, 2080242893, 2080592340, 2080941780, 0, 0, 0, 0]
+poll_tx_time: 1161812
+range_number: 14
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       171
+# timestamp (sec): 1687573397.155557394
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 867, 3714, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2099860955, 2100210396, 2100559843, 2100909282, 0, 0, 0, 0]
+poll_tx_time: 1161892
+range_number: 15
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       172
+# timestamp (sec): 1687573397.235388041
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 764, 3663, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2119829024, 2120178466, 2120527911, 2120877353, 0, 0, 0, 0]
+poll_tx_time: 1161972
+range_number: 16
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       173
+# timestamp (sec): 1687573397.316566467
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 830, 3700, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2139796485, 2140145925, 2140495372, 2140844812, 0, 0, 0, 0]
+poll_tx_time: 1162052
+range_number: 17
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       174
+# timestamp (sec): 1687573397.395629406
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 867, 3710, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2159764001, 2160113442, 2160462888, 2160812329, 0, 0, 0, 0]
+poll_tx_time: 1162132
+range_number: 18
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       175
+# timestamp (sec): 1687573397.475308895
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 811, 3742, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2179731366, 2180080806, 2180430253, 2180779692, 0, 0, 0, 0]
+poll_tx_time: 1162212
+range_number: 19
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       176
+# timestamp (sec): 1687573397.554779053
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 839, 3714, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2199699088, 2200048529, 2200397975, 2200747416, 0, 0, 0, 0]
+poll_tx_time: 1162292
+range_number: 20
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       177
+# timestamp (sec): 1687573397.635342121
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 839, 3724, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2219666661, 2220016102, 2220365548, 2220714989, 0, 0, 0, 0]
+poll_tx_time: 1162372
+range_number: 21
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       178
+# timestamp (sec): 1687573397.714580774
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1177, 834, 3728, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2239633997, 2239983437, 2240332884, 2240682324, 0, 0, 0, 0]
+poll_tx_time: 1162452
+range_number: 22
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       179
+# timestamp (sec): 1687573397.795438051
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 792, 3728, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2259601844, 2259951285, 2260300733, 2260650173, 0, 0, 0, 0]
+poll_tx_time: 1162532
+range_number: 23
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       180
+# timestamp (sec): 1687573397.875467777
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 881, 3719, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2279569375, 2279918816, 2280268261, 2280617702, 0, 0, 0, 0]
+poll_tx_time: 1162612
+range_number: 24
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       181
+# timestamp (sec): 1687573397.955516100
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 830, 3780, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2299537167, 2299886608, 2300236053, 2300585494, 0, 0, 0, 0]
+poll_tx_time: 1162692
+range_number: 25
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       182
+# timestamp (sec): 1687573398.035394669
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 830, 3705, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2319504572, 2319854013, 2320203460, 2320552901, 0, 0, 0, 0]
+poll_tx_time: 1162772
+range_number: 26
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       183
+# timestamp (sec): 1687573398.115769386
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 858, 3785, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2339472033, 2339821474, 2340170921, 2340520360, 0, 0, 0, 0]
+poll_tx_time: 1162852
+range_number: 27
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       184
+# timestamp (sec): 1687573398.195459366
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 830, 3756, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2359439563, 2359789004, 2360138449, 2360487891, 0, 0, 0, 0]
+poll_tx_time: 1162932
+range_number: 28
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       185
+# timestamp (sec): 1687573398.275559902
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 806, 3700, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2379407176, 2379756617, 2380106064, 2380455505, 0, 0, 0, 0]
+poll_tx_time: 1163012
+range_number: 29
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       186
+# timestamp (sec): 1687573398.355406284
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1177, 881, 3728, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2399374747, 2399724187, 2400073634, 2400423074, 0, 0, 0, 0]
+poll_tx_time: 1163092
+range_number: 30
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       187
+# timestamp (sec): 1687573398.435372114
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 844, 3714, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2419342375, 2419691816, 2420041263, 2420390703, 0, 0, 0, 0]
+poll_tx_time: 1163172
+range_number: 31
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       188
+# timestamp (sec): 1687573398.516129732
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 820, 3691, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2439309708, 2439659149, 2440008595, 2440358037, 0, 0, 0, 0]
+poll_tx_time: 1163252
+range_number: 32
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       189
+# timestamp (sec): 1687573398.595450640
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 853, 3696, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2459277199, 2459626639, 2459976086, 2460325526, 0, 0, 0, 0]
+poll_tx_time: 1163332
+range_number: 33
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       190
+# timestamp (sec): 1687573398.675218105
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 816, 3733, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2479244812, 2479594252, 2479943698, 2480293139, 0, 0, 0, 0]
+poll_tx_time: 1163412
+range_number: 34
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       191
+# timestamp (sec): 1687573398.755563736
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 806, 3714, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2499212880, 2499562322, 2499911769, 2500261208, 0, 0, 0, 0]
+poll_tx_time: 1163492
+range_number: 35
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       192
+# timestamp (sec): 1687573398.834827900
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 755, 3667, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2519180287, 2519529727, 2519879173, 2520228614, 0, 0, 0, 0]
+poll_tx_time: 1163572
+range_number: 36
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       193
+# timestamp (sec): 1687573398.914917946
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 881, 3724, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2539148024, 2539497465, 2539846912, 2540196353, 0, 0, 0, 0]
+poll_tx_time: 1163652
+range_number: 37
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       194
+# timestamp (sec): 1687573398.995547533
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 764, 3719, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2559115139, 2559464580, 2559814027, 2560163466, 0, 0, 0, 0]
+poll_tx_time: 1163732
+range_number: 38
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       195
+# timestamp (sec): 1687573399.075373888
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 872, 3705, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2579082667, 2579432108, 2579781553, 2580130994, 0, 0, 0, 0]
+poll_tx_time: 1163812
+range_number: 39
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       196
+# timestamp (sec): 1687573399.155295134
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 741, 3775, 3916, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2599050418, 2599399859, 2599749306, 2600098747, 0, 0, 0, 0]
+poll_tx_time: 1163892
+range_number: 40
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       197
+# timestamp (sec): 1687573399.235464096
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 755, 3714, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2619017811, 2619367251, 2619716699, 2620066139, 0, 0, 0, 0]
+poll_tx_time: 1163972
+range_number: 41
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       198
+# timestamp (sec): 1687573399.315698147
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 848, 3752, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2638985338, 2639334779, 2639684225, 2640033666, 0, 0, 0, 0]
+poll_tx_time: 1164052
+range_number: 42
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       199
+# timestamp (sec): 1687573399.396296501
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 834, 3653, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2658953271, 2659302712, 2659652158, 2660001597, 0, 0, 0, 0]
+poll_tx_time: 1164132
+range_number: 43
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       200
+# timestamp (sec): 1687573399.475697041
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 802, 3724, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2678920594, 2679270034, 2679619480, 2679968921, 0, 0, 0, 0]
+poll_tx_time: 1164212
+range_number: 44
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       201
+# timestamp (sec): 1687573399.557053089
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 863, 3714, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2698888483, 2699237923, 2699587369, 2699936810, 0, 0, 0, 0]
+poll_tx_time: 1164292
+range_number: 45
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       202
+# timestamp (sec): 1687573399.636267185
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 839, 3766, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2718856055, 2719205495, 2719554942, 2719904382, 0, 0, 0, 0]
+poll_tx_time: 1164372
+range_number: 46
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       203
+# timestamp (sec): 1687573399.714546442
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 811, 3756, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2738823196, 2739172636, 2739522084, 2739871525, 0, 0, 0, 0]
+poll_tx_time: 1164452
+range_number: 47
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       204
+# timestamp (sec): 1687573399.795414925
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1177, 755, 3663, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2758791129, 2759140570, 2759490015, 2759839456, 0, 0, 0, 0]
+poll_tx_time: 1164532
+range_number: 48
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       205
+# timestamp (sec): 1687573399.875296593
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 839, 3766, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2778758380, 2779107822, 2779457268, 2779806708, 0, 0, 0, 0]
+poll_tx_time: 1164612
+range_number: 49
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       206
+# timestamp (sec): 1687573399.956149817
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 830, 3761, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2798725953, 2799075393, 2799424840, 2799774279, 0, 0, 0, 0]
+poll_tx_time: 1164692
+range_number: 50
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       207
+# timestamp (sec): 1687573400.035907745
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 853, 3719, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2818693856, 2819043297, 2819392743, 2819742185, 0, 0, 0, 0]
+poll_tx_time: 1164772
+range_number: 51
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       208
+# timestamp (sec): 1687573400.115570307
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 778, 3714, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2838661163, 2839010603, 2839360050, 2839709490, 0, 0, 0, 0]
+poll_tx_time: 1164852
+range_number: 52
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       209
+# timestamp (sec): 1687573400.195053339
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 863, 3733, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2858629094, 2858978536, 2859327982, 2859677422, 0, 0, 0, 0]
+poll_tx_time: 1164932
+range_number: 53
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       210
+# timestamp (sec): 1687573400.274994135
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 792, 3728, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2878596515, 2878945956, 2879295401, 2879644843, 0, 0, 0, 0]
+poll_tx_time: 1165012
+range_number: 54
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       211
+# timestamp (sec): 1687573400.355302095
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 736, 3686, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2898564128, 2898913568, 2899263014, 2899612455, 0, 0, 0, 0]
+poll_tx_time: 1165092
+range_number: 55
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       212
+# timestamp (sec): 1687573400.435842752
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 877, 3789, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2918531809, 2918881249, 2919230697, 2919580136, 0, 0, 0, 0]
+poll_tx_time: 1165172
+range_number: 56
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       213
+# timestamp (sec): 1687573400.515299797
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 867, 3742, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2938499020, 2938848459, 2939197905, 2939547346, 0, 0, 0, 0]
+poll_tx_time: 1165252
+range_number: 57
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       214
+# timestamp (sec): 1687573400.595611572
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 764, 3714, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2958466743, 2958816183, 2959165630, 2959515071, 0, 0, 0, 0]
+poll_tx_time: 1165332
+range_number: 58
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       215
+# timestamp (sec): 1687573400.675165415
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 816, 3696, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2978434164, 2978783604, 2979133051, 2979482491, 0, 0, 0, 0]
+poll_tx_time: 1165412
+range_number: 59
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       216
+# timestamp (sec): 1687573400.755523443
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 858, 3761, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [2998401887, 2998751328, 2999100773, 2999450214, 0, 0, 0, 0]
+poll_tx_time: 1165492
+range_number: 60
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       217
+# timestamp (sec): 1687573400.835889816
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1102, 764, 3705, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3018369458, 3018718898, 3019068344, 3019417783, 0, 0, 0, 0]
+poll_tx_time: 1165572
+range_number: 61
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       218
+# timestamp (sec): 1687573400.916506290
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 834, 3714, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3038337305, 3038686746, 3039036193, 3039385633, 0, 0, 0, 0]
+poll_tx_time: 1165652
+range_number: 62
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       219
+# timestamp (sec): 1687573400.995013952
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 820, 3775, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3058304448, 3058653887, 3059003333, 3059352775, 0, 0, 0, 0]
+poll_tx_time: 1165732
+range_number: 63
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       220
+# timestamp (sec): 1687573401.075258970
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 872, 3738, 4052, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3078271949, 3078621389, 3078970836, 3079320276, 0, 0, 0, 0]
+poll_tx_time: 1165812
+range_number: 64
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       221
+# timestamp (sec): 1687573401.156304121
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 778, 3724, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3098239700, 3098589141, 3098938589, 3099288027, 0, 0, 0, 0]
+poll_tx_time: 1165892
+range_number: 65
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       222
+# timestamp (sec): 1687573401.235055447
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 769, 3705, 3892, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3118207161, 3118556601, 3118906047, 3119255489, 0, 0, 0, 0]
+poll_tx_time: 1165972
+range_number: 66
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       223
+# timestamp (sec): 1687573401.315424919
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 872, 3705, 4019, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3138174980, 3138524422, 3138873868, 3139223308, 0, 0, 0, 0]
+poll_tx_time: 1166052
+range_number: 67
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       224
+# timestamp (sec): 1687573401.395512819
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 839, 3747, 4010, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3158142359, 3158491800, 3158841247, 3159190686, 0, 0, 0, 0]
+poll_tx_time: 1166132
+range_number: 68
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       225
+# timestamp (sec): 1687573401.475111485
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 825, 3728, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3178110234, 3178459676, 3178809121, 3179158563, 0, 0, 0, 0]
+poll_tx_time: 1166212
+range_number: 69
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       226
+# timestamp (sec): 1687573401.555285931
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 881, 3714, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3198077445, 3198426885, 3198776332, 3199125773, 0, 0, 0, 0]
+poll_tx_time: 1166292
+range_number: 70
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       227
+# timestamp (sec): 1687573401.635431051
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1116, 863, 3714, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3218044946, 3218394387, 3218743835, 3219093274, 0, 0, 0, 0]
+poll_tx_time: 1166372
+range_number: 71
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       228
+# timestamp (sec): 1687573401.716922760
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 867, 3761, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3238012851, 3238362291, 3238711738, 3239061178, 0, 0, 0, 0]
+poll_tx_time: 1166452
+range_number: 72
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       229
+# timestamp (sec): 1687573401.795887709
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 867, 3817, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3257980270, 3258329711, 3258679158, 3259028599, 0, 0, 0, 0]
+poll_tx_time: 1166532
+range_number: 73
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       230
+# timestamp (sec): 1687573401.875058651
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 863, 3728, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3277947661, 3278297102, 3278646549, 3278995989, 0, 0, 0, 0]
+poll_tx_time: 1166612
+range_number: 74
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       231
+# timestamp (sec): 1687573401.957004309
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 877, 3677, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3297915232, 3298264674, 3298614120, 3298963560, 0, 0, 0, 0]
+poll_tx_time: 1166692
+range_number: 75
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       232
+# timestamp (sec): 1687573402.036037207
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 820, 3686, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3317882761, 3318232202, 3318581648, 3318931088, 0, 0, 0, 0]
+poll_tx_time: 1166772
+range_number: 76
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       233
+# timestamp (sec): 1687573402.115600586
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 825, 3738, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3337850375, 3338199816, 3338549263, 3338898703, 0, 0, 0, 0]
+poll_tx_time: 1166852
+range_number: 77
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       234
+# timestamp (sec): 1687573402.195674419
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 764, 3799, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3357818376, 3358167816, 3358517262, 3358866703, 0, 0, 0, 0]
+poll_tx_time: 1166932
+range_number: 78
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       235
+# timestamp (sec): 1687573402.275939703
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1092, 830, 3747, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3377785641, 3378135081, 3378484528, 3378833968, 0, 0, 0, 0]
+poll_tx_time: 1167012
+range_number: 79
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       236
+# timestamp (sec): 1687573402.355304480
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 844, 3719, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3397753086, 3398102527, 3398451975, 3398801414, 0, 0, 0, 0]
+poll_tx_time: 1167092
+range_number: 80
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       237
+# timestamp (sec): 1687573402.434954405
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1092, 886, 3803, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3417720783, 3418070223, 3418419670, 3418769111, 0, 0, 0, 0]
+poll_tx_time: 1167172
+range_number: 81
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       238
+# timestamp (sec): 1687573402.515041351
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 881, 3724, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3437688728, 3438038169, 3438387617, 3438737057, 0, 0, 0, 0]
+poll_tx_time: 1167252
+range_number: 82
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       239
+# timestamp (sec): 1687573402.595634937
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 825, 3724, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3457656023, 3458005464, 3458354909, 3458704350, 0, 0, 0, 0]
+poll_tx_time: 1167332
+range_number: 83
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       240
+# timestamp (sec): 1687573402.677176952
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 802, 3714, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3477623440, 3477972882, 3478322328, 3478671768, 0, 0, 0, 0]
+poll_tx_time: 1167412
+range_number: 84
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       241
+# timestamp (sec): 1687573402.755017757
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 844, 3700, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3497591332, 3497940772, 3498290219, 3498639659, 0, 0, 0, 0]
+poll_tx_time: 1167492
+range_number: 85
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       242
+# timestamp (sec): 1687573402.835918665
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 881, 3761, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3517558833, 3517908274, 3518257719, 3518607161, 0, 0, 0, 0]
+poll_tx_time: 1167572
+range_number: 86
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       243
+# timestamp (sec): 1687573402.915036678
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 881, 3705, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3537526420, 3537875859, 3538225306, 3538574746, 0, 0, 0, 0]
+poll_tx_time: 1167652
+range_number: 87
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       244
+# timestamp (sec): 1687573402.995999098
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 759, 3794, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3557493837, 3557843277, 3558192725, 3558542164, 0, 0, 0, 0]
+poll_tx_time: 1167732
+range_number: 88
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       245
+# timestamp (sec): 1687573403.075137854
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 811, 3724, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3577461352, 3577810793, 3578160239, 3578509679, 0, 0, 0, 0]
+poll_tx_time: 1167812
+range_number: 89
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       246
+# timestamp (sec): 1687573403.155148506
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 769, 3700, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3597428841, 3597778281, 3598127728, 3598477169, 0, 0, 0, 0]
+poll_tx_time: 1167892
+range_number: 90
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       247
+# timestamp (sec): 1687573403.236260653
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 769, 3719, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3617396702, 3617746143, 3618095591, 3618445031, 0, 0, 0, 0]
+poll_tx_time: 1167972
+range_number: 91
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       248
+# timestamp (sec): 1687573403.314801931
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 787, 3747, 4000, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3637363900, 3637713339, 3638062785, 3638412226, 0, 0, 0, 0]
+poll_tx_time: 1168052
+range_number: 92
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       249
+# timestamp (sec): 1687573403.394845247
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 773, 3780, 4000, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3657331901, 3657681342, 3658030788, 3658380228, 0, 0, 0, 0]
+poll_tx_time: 1168132
+range_number: 93
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       250
+# timestamp (sec): 1687573403.475608587
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 778, 3747, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3677299082, 3677648524, 3677997971, 3678347411, 0, 0, 0, 0]
+poll_tx_time: 1168212
+range_number: 94
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       251
+# timestamp (sec): 1687573403.555307150
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 839, 3700, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3697266835, 3697616276, 3697965721, 3698315163, 0, 0, 0, 0]
+poll_tx_time: 1168292
+range_number: 95
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       252
+# timestamp (sec): 1687573403.635553122
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 806, 3714, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3717234446, 3717583888, 3717933334, 3718282774, 0, 0, 0, 0]
+poll_tx_time: 1168372
+range_number: 96
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       253
+# timestamp (sec): 1687573403.715353727
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 891, 3747, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3737202018, 3737551458, 3737900905, 3738250344, 0, 0, 0, 0]
+poll_tx_time: 1168452
+range_number: 97
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       254
+# timestamp (sec): 1687573403.795048952
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 830, 3761, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3757169491, 3757518932, 3757868377, 3758217819, 0, 0, 0, 0]
+poll_tx_time: 1168532
+range_number: 98
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       255
+# timestamp (sec): 1687573403.875527859
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 872, 3724, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3777137214, 3777486656, 3777836102, 3778185543, 0, 0, 0, 0]
+poll_tx_time: 1168612
+range_number: 99
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       256
+# timestamp (sec): 1687573403.956251144
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 778, 3696, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3797104467, 3797453908, 3797803355, 3798152795, 0, 0, 0, 0]
+poll_tx_time: 1168692
+range_number: 100
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       257
+# timestamp (sec): 1687573404.034778357
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 820, 3710, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3817072149, 3817421589, 3817771036, 3818120476, 0, 0, 0, 0]
+poll_tx_time: 1168772
+range_number: 101
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       258
+# timestamp (sec): 1687573404.114620209
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 750, 3700, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3837040150, 3837389591, 3837739038, 3838088478, 0, 0, 0, 0]
+poll_tx_time: 1168852
+range_number: 102
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       259
+# timestamp (sec): 1687573404.195068121
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 834, 3724, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3857007263, 3857356703, 3857706149, 3858055591, 0, 0, 0, 0]
+poll_tx_time: 1168932
+range_number: 103
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       260
+# timestamp (sec): 1687573404.275301695
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 867, 3742, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3876974973, 3877324413, 3877673860, 3878023301, 0, 0, 0, 0]
+poll_tx_time: 1169012
+range_number: 104
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       261
+# timestamp (sec): 1687573404.354923725
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 877, 3738, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3896942544, 3897291985, 3897641433, 3897990872, 0, 0, 0, 0]
+poll_tx_time: 1169092
+range_number: 105
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       262
+# timestamp (sec): 1687573404.434992552
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 792, 3742, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3916910059, 3917259499, 3917608945, 3917958386, 0, 0, 0, 0]
+poll_tx_time: 1169172
+range_number: 106
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       263
+# timestamp (sec): 1687573404.514530659
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 867, 3705, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3936877894, 3937227335, 3937576782, 3937926222, 0, 0, 0, 0]
+poll_tx_time: 1169252
+range_number: 107
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       264
+# timestamp (sec): 1687573404.596036673
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 755, 3775, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3956845036, 3957194475, 3957543923, 3957893363, 0, 0, 0, 0]
+poll_tx_time: 1169332
+range_number: 108
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       265
+# timestamp (sec): 1687573404.674749374
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 858, 3700, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3976813079, 3977162519, 3977511965, 3977861407, 0, 0, 0, 0]
+poll_tx_time: 1169412
+range_number: 109
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       266
+# timestamp (sec): 1687573404.755228281
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1149, 783, 3696, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [3996780648, 3997130089, 3997479536, 3997828976, 0, 0, 0, 0]
+poll_tx_time: 1169492
+range_number: 110
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       267
+# timestamp (sec): 1687573404.834650755
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 820, 3705, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4016747832, 4017097271, 4017446719, 4017796158, 0, 0, 0, 0]
+poll_tx_time: 1169572
+range_number: 111
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       268
+# timestamp (sec): 1687573404.914894581
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 825, 3719, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4036715431, 4037064872, 4037414318, 4037763758, 0, 0, 0, 0]
+poll_tx_time: 1169652
+range_number: 112
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       269
+# timestamp (sec): 1687573404.995467424
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 886, 3705, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4056683152, 4057032594, 4057382040, 4057731481, 0, 0, 0, 0]
+poll_tx_time: 1169732
+range_number: 113
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       270
+# timestamp (sec): 1687573405.075374842
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 872, 3738, 4024, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4076650934, 4077000374, 4077349819, 4077699261, 0, 0, 0, 0]
+poll_tx_time: 1169812
+range_number: 114
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       271
+# timestamp (sec): 1687573405.154581547
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 755, 3733, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4096618407, 4096967848, 4097317294, 4097666734, 0, 0, 0, 0]
+poll_tx_time: 1169892
+range_number: 115
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       272
+# timestamp (sec): 1687573405.234505177
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 834, 3742, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4116585644, 4116935086, 4117284533, 4117633972, 0, 0, 0, 0]
+poll_tx_time: 1169972
+range_number: 116
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       273
+# timestamp (sec): 1687573405.315032721
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 844, 3710, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4136553438, 4136902878, 4137252323, 4137601763, 0, 0, 0, 0]
+poll_tx_time: 1170052
+range_number: 117
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       274
+# timestamp (sec): 1687573405.395305157
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 877, 3813, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4156521105, 4156870546, 4157219992, 4157569433, 0, 0, 0, 0]
+poll_tx_time: 1170132
+range_number: 118
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       275
+# timestamp (sec): 1687573405.475690126
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 755, 3761, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4176488426, 4176837868, 4177187315, 4177536755, 0, 0, 0, 0]
+poll_tx_time: 1170212
+range_number: 119
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       276
+# timestamp (sec): 1687573405.554459810
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1088, 783, 3728, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4196456110, 4196805550, 4197154996, 4197504436, 0, 0, 0, 0]
+poll_tx_time: 1170292
+range_number: 120
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       277
+# timestamp (sec): 1687573405.634781361
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 816, 3724, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4216423721, 4216773162, 4217122608, 4217472048, 0, 0, 0, 0]
+poll_tx_time: 1170372
+range_number: 121
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       278
+# timestamp (sec): 1687573405.715238571
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 787, 3747, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4236391498, 4236740940, 4237090387, 4237439825, 0, 0, 0, 0]
+poll_tx_time: 1170452
+range_number: 122
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       279
+# timestamp (sec): 1687573405.794717073
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 863, 3710, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4256358862, 4256708304, 4257057750, 4257407191, 0, 0, 0, 0]
+poll_tx_time: 1170532
+range_number: 123
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       280
+# timestamp (sec): 1687573405.874720097
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 830, 3719, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [4276326489, 4276675930, 4277025376, 4277374817, 0, 0, 0, 0]
+poll_tx_time: 1170612
+range_number: 124
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       281
+# timestamp (sec): 1687573405.954908133
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1078, 867, 3691, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1326985, 1676426, 2025871, 2375312, 0, 0, 0, 0]
+poll_tx_time: 1170692
+range_number: 125
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       282
+# timestamp (sec): 1687573406.034588099
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 802, 3719, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [21294388, 21643830, 21993276, 22342716, 0, 0, 0, 0]
+poll_tx_time: 1170772
+range_number: 126
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       283
+# timestamp (sec): 1687573406.114873886
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 877, 3719, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [41261697, 41611138, 41960585, 42310025, 0, 0, 0, 0]
+poll_tx_time: 1170852
+range_number: 127
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       284
+# timestamp (sec): 1687573406.194655418
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 858, 3747, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [61229475, 61578916, 61928361, 62277803, 0, 0, 0, 0]
+poll_tx_time: 1170932
+range_number: 128
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       285
+# timestamp (sec): 1687573406.275099277
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 787, 3766, 4000, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [81196894, 81546336, 81895782, 82245222, 0, 0, 0, 0]
+poll_tx_time: 1171012
+range_number: 129
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       286
+# timestamp (sec): 1687573406.355500221
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1205, 877, 3752, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [101164300, 101513740, 101863187, 102212626, 0, 0, 0, 0]
+poll_tx_time: 1171092
+range_number: 130
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       287
+# timestamp (sec): 1687573406.434838057
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 891, 3710, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [121131869, 121481310, 121830755, 122180196, 0, 0, 0, 0]
+poll_tx_time: 1171172
+range_number: 131
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       288
+# timestamp (sec): 1687573406.515746355
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 881, 3700, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [141099911, 141449352, 141798798, 142148239, 0, 0, 0, 0]
+poll_tx_time: 1171252
+range_number: 132
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       289
+# timestamp (sec): 1687573406.594926357
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 816, 3677, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [161067232, 161416674, 161766121, 162115561, 0, 0, 0, 0]
+poll_tx_time: 1171332
+range_number: 133
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       290
+# timestamp (sec): 1687573406.675086975
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 863, 3752, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [181034901, 181384342, 181733788, 182083228, 0, 0, 0, 0]
+poll_tx_time: 1171412
+range_number: 134
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       291
+# timestamp (sec): 1687573406.755888462
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1120, 830, 3780, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [201002471, 201351912, 201701358, 202050798, 0, 0, 0, 0]
+poll_tx_time: 1171492
+range_number: 135
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       292
+# timestamp (sec): 1687573406.834931612
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 877, 3738, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [220969944, 221319386, 221668833, 222018272, 0, 0, 0, 0]
+poll_tx_time: 1171572
+range_number: 136
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       293
+# timestamp (sec): 1687573406.915110350
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 881, 3705, 3982, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [240937406, 241286846, 241636292, 241985733, 0, 0, 0, 0]
+poll_tx_time: 1171652
+range_number: 137
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       294
+# timestamp (sec): 1687573406.994843006
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 877, 3705, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [260905183, 261254624, 261604070, 261953511, 0, 0, 0, 0]
+poll_tx_time: 1171732
+range_number: 138
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       295
+# timestamp (sec): 1687573407.074650049
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1088, 877, 3705, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [280872435, 281221876, 281571321, 281920763, 0, 0, 0, 0]
+poll_tx_time: 1171812
+range_number: 139
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       296
+# timestamp (sec): 1687573407.154573679
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 844, 3710, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [300840366, 301189808, 301539254, 301888694, 0, 0, 0, 0]
+poll_tx_time: 1171892
+range_number: 140
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       297
+# timestamp (sec): 1687573407.235277891
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1153, 816, 3710, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [320807619, 321157060, 321506507, 321855946, 0, 0, 0, 0]
+poll_tx_time: 1171972
+range_number: 141
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       298
+# timestamp (sec): 1687573407.316085815
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 820, 3719, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [340775619, 341125060, 341474505, 341823946, 0, 0, 0, 0]
+poll_tx_time: 1172052
+range_number: 142
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       299
+# timestamp (sec): 1687573407.394717216
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 858, 3724, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [360743092, 361092534, 361441980, 361791421, 0, 0, 0, 0]
+poll_tx_time: 1172132
+range_number: 143
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       300
+# timestamp (sec): 1687573407.475359678
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 816, 3738, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [380710608, 381060050, 381409497, 381758937, 0, 0, 0, 0]
+poll_tx_time: 1172212
+range_number: 144
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       301
+# timestamp (sec): 1687573407.554842710
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 745, 3742, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [400678081, 401027522, 401376967, 401726409, 0, 0, 0, 0]
+poll_tx_time: 1172292
+range_number: 145
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       302
+# timestamp (sec): 1687573407.636288881
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 820, 3714, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [420645597, 420995038, 421344484, 421693924, 0, 0, 0, 0]
+poll_tx_time: 1172372
+range_number: 146
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       303
+# timestamp (sec): 1687573407.716089964
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 853, 3710, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [440613084, 440962526, 441311973, 441661412, 0, 0, 0, 0]
+poll_tx_time: 1172452
+range_number: 147
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       304
+# timestamp (sec): 1687573407.795721054
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 886, 3663, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [460580738, 460930180, 461279626, 461629066, 0, 0, 0, 0]
+poll_tx_time: 1172532
+range_number: 148
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       305
+# timestamp (sec): 1687573407.874821663
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1111, 881, 3705, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [480548683, 480898124, 481247570, 481597011, 0, 0, 0, 0]
+poll_tx_time: 1172612
+range_number: 149
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       306
+# timestamp (sec): 1687573407.955051184
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1106, 764, 3700, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [500515755, 500865196, 501214641, 501564083, 0, 0, 0, 0]
+poll_tx_time: 1172692
+range_number: 150
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       307
+# timestamp (sec): 1687573408.034884930
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1088, 759, 3719, 3925, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [520483284, 520832726, 521182172, 521531613, 0, 0, 0, 0]
+poll_tx_time: 1172772
+range_number: 151
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       308
+# timestamp (sec): 1687573408.115405321
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1102, 853, 3719, 3911, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [540451326, 540800768, 541150215, 541499654, 0, 0, 0, 0]
+poll_tx_time: 1172852
+range_number: 152
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       309
+# timestamp (sec): 1687573408.195071220
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 853, 3771, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [560418799, 560768240, 561117685, 561467126, 0, 0, 0, 0]
+poll_tx_time: 1172932
+range_number: 153
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       310
+# timestamp (sec): 1687573408.276367664
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 759, 3724, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [580385997, 580735438, 581084884, 581434324, 0, 0, 0, 0]
+poll_tx_time: 1173012
+range_number: 154
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       311
+# timestamp (sec): 1687573408.355600119
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1097, 853, 3705, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [600353926, 600703368, 601052815, 601402255, 0, 0, 0, 0]
+poll_tx_time: 1173092
+range_number: 155
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       312
+# timestamp (sec): 1687573408.436413288
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 886, 3733, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [620321358, 620670798, 621020246, 621369687, 0, 0, 0, 0]
+poll_tx_time: 1173172
+range_number: 156
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       313
+# timestamp (sec): 1687573408.515432119
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1158, 773, 3752, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [640289250, 640638689, 640988136, 641337577, 0, 0, 0, 0]
+poll_tx_time: 1173252
+range_number: 157
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       314
+# timestamp (sec): 1687573408.596111536
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 755, 3724, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [660256653, 660606093, 660955541, 661304980, 0, 0, 0, 0]
+poll_tx_time: 1173332
+range_number: 158
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       315
+# timestamp (sec): 1687573408.675739765
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1125, 844, 3719, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [680223891, 680573331, 680922778, 681272218, 0, 0, 0, 0]
+poll_tx_time: 1173412
+range_number: 159
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       316
+# timestamp (sec): 1687573408.755940437
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1102, 773, 3705, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [700191420, 700540861, 700890308, 701239748, 0, 0, 0, 0]
+poll_tx_time: 1173492
+range_number: 160
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       317
+# timestamp (sec): 1687573408.835421801
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139, 806, 3719, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [720159530, 720508971, 720858417, 721207858, 0, 0, 0, 0]
+poll_tx_time: 1173572
+range_number: 161
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       318
+# timestamp (sec): 1687573408.915230274
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1130, 830, 3724, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [740126923, 740476363, 740825810, 741175251, 0, 0, 0, 0]
+poll_tx_time: 1173652
+range_number: 162
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       319
+# timestamp (sec): 1687573408.994693756
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1102, 816, 3710, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [760094673, 760444113, 760793561, 761143001, 0, 0, 0, 0]
+poll_tx_time: 1173732
+range_number: 163
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       320
+# timestamp (sec): 1687573409.075700998
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1144, 759, 3714, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [780062175, 780411615, 780761061, 781110503, 0, 0, 0, 0]
+poll_tx_time: 1173812
+range_number: 164
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       321
+# timestamp (sec): 1687573409.154367685
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 830, 3714, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [800029702, 800379143, 800728590, 801078030, 0, 0, 0, 0]
+poll_tx_time: 1173892
+range_number: 165
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       322
+# timestamp (sec): 1687573409.234545469
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1083, 811, 3710, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [819997318, 820346758, 820696205, 821045644, 0, 0, 0, 0]
+poll_tx_time: 1173972
+range_number: 166
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       323
+# timestamp (sec): 1687573409.315397263
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1135, 834, 3728, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [839964499, 840313940, 840663386, 841012826, 0, 0, 0, 0]
+poll_tx_time: 1174052
+range_number: 167
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       324
+# timestamp (sec): 1687573409.394602776
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 825, 3705, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [859932361, 860281802, 860631248, 860980688, 0, 0, 0, 0]
+poll_tx_time: 1174132
+range_number: 168
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       325
+# timestamp (sec): 1687573409.474577188
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 881, 3705, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [879899640, 880249082, 880598527, 880947969, 0, 0, 0, 0]
+poll_tx_time: 1174212
+range_number: 169
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       326
+# timestamp (sec): 1687573409.554707766
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 764, 3714, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [899867668, 900217110, 900566556, 900915997, 0, 0, 0, 0]
+poll_tx_time: 1174292
+range_number: 170
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       327
+# timestamp (sec): 1687573409.635895967
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 867, 3714, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [919834920, 920184360, 920533807, 920883247, 0, 0, 0, 0]
+poll_tx_time: 1174372
+range_number: 171
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       328
+# timestamp (sec): 1687573409.715440989
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 745, 3724, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [939802269, 940151710, 940501155, 940850596, 0, 0, 0, 0]
+poll_tx_time: 1174452
+range_number: 172
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       329
+# timestamp (sec): 1687573409.794914246
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 834, 3733, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [959770213, 960119654, 960469100, 960818540, 0, 0, 0, 0]
+poll_tx_time: 1174532
+range_number: 173
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       330
+# timestamp (sec): 1687573409.875926018
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 867, 3756, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [979737411, 980086851, 980436297, 980785738, 0, 0, 0, 0]
+poll_tx_time: 1174612
+range_number: 174
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       331
+# timestamp (sec): 1687573409.955209970
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 759, 3681, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [999705202, 1000054643, 1000404090, 1000753530, 0, 0, 0, 0]
+poll_tx_time: 1174692
+range_number: 175
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       332
+# timestamp (sec): 1687573410.034495831
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 881, 3771, 3977, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1019672774, 1020022213, 1020371661, 1020721099, 0, 0, 0, 0]
+poll_tx_time: 1174772
+range_number: 176
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       333
+# timestamp (sec): 1687573410.116233349
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 759, 3756, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1039640497, 1039989937, 1040339383, 1040688825, 0, 0, 0, 0]
+poll_tx_time: 1174852
+range_number: 177
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       334
+# timestamp (sec): 1687573410.194571733
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 820, 3775, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1059608011, 1059957451, 1060306898, 1060656339, 0, 0, 0, 0]
+poll_tx_time: 1174932
+range_number: 178
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       335
+# timestamp (sec): 1687573410.274786949
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 881, 3747, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1079575429, 1079924869, 1080274317, 1080623757, 0, 0, 0, 0]
+poll_tx_time: 1175012
+range_number: 179
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       336
+# timestamp (sec): 1687573410.354909658
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1205, 783, 3724, 3972, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1099543194, 1099892636, 1100242082, 1100591522, 0, 0, 0, 0]
+poll_tx_time: 1175092
+range_number: 180
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       337
+# timestamp (sec): 1687573410.435705662
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1210, 848, 3724, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1119510626, 1119860068, 1120209514, 1120558954, 0, 0, 0, 0]
+poll_tx_time: 1175172
+range_number: 181
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       338
+# timestamp (sec): 1687573410.515213013
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 867, 3728, 3996, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1139478296, 1139827736, 1140177181, 1140526622, 0, 0, 0, 0]
+poll_tx_time: 1175252
+range_number: 182
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       339
+# timestamp (sec): 1687573410.594638824
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 759, 3756, 3930, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1159446087, 1159795528, 1160144974, 1160494414, 0, 0, 0, 0]
+poll_tx_time: 1175332
+range_number: 183
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       340
+# timestamp (sec): 1687573410.674797773
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 811, 3771, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1179413589, 1179763030, 1180112477, 1180461916, 0, 0, 0, 0]
+poll_tx_time: 1175412
+range_number: 184
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       341
+# timestamp (sec): 1687573410.754769087
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 834, 3771, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1199380855, 1199730297, 1200079742, 1200429183, 0, 0, 0, 0]
+poll_tx_time: 1175492
+range_number: 185
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       342
+# timestamp (sec): 1687573410.835099459
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1205, 886, 3742, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1219348480, 1219697921, 1220047368, 1220396809, 0, 0, 0, 0]
+poll_tx_time: 1175572
+range_number: 186
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       343
+# timestamp (sec): 1687573410.914483309
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 816, 3705, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1239315940, 1239665381, 1240014827, 1240364269, 0, 0, 0, 0]
+poll_tx_time: 1175652
+range_number: 187
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       344
+# timestamp (sec): 1687573410.996024370
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1210, 769, 3724, 4010, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1259283720, 1259633159, 1259982606, 1260332047, 0, 0, 0, 0]
+poll_tx_time: 1175732
+range_number: 188
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       345
+# timestamp (sec): 1687573411.075518370
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 825, 3728, 4000, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1279251054, 1279600493, 1279949941, 1280299380, 0, 0, 0, 0]
+poll_tx_time: 1175812
+range_number: 189
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       346
+# timestamp (sec): 1687573411.156742811
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 891, 3752, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1299218901, 1299568341, 1299917788, 1300267228, 0, 0, 0, 0]
+poll_tx_time: 1175892
+range_number: 190
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       347
+# timestamp (sec): 1687573411.234766006
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1177, 816, 3714, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1319186473, 1319535914, 1319885360, 1320234800, 0, 0, 0, 0]
+poll_tx_time: 1175972
+range_number: 191
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       348
+# timestamp (sec): 1687573411.314873695
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 886, 3756, 3944, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1339154155, 1339503596, 1339853041, 1340202482, 0, 0, 0, 0]
+poll_tx_time: 1176052
+range_number: 192
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       349
+# timestamp (sec): 1687573411.394999743
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 872, 3724, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1359121573, 1359471014, 1359820460, 1360169900, 0, 0, 0, 0]
+poll_tx_time: 1176132
+range_number: 193
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       350
+# timestamp (sec): 1687573411.474563360
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1200, 816, 3766, 3939, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1379088934, 1379438376, 1379787823, 1380137262, 0, 0, 0, 0]
+poll_tx_time: 1176212
+range_number: 194
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       351
+# timestamp (sec): 1687573411.554663181
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 872, 3719, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1399056506, 1399405947, 1399755394, 1400104834, 0, 0, 0, 0]
+poll_tx_time: 1176292
+range_number: 195
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       352
+# timestamp (sec): 1687573411.634547710
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 811, 3714, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1419024340, 1419373781, 1419723228, 1420072669, 0, 0, 0, 0]
+poll_tx_time: 1176372
+range_number: 196
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       353
+# timestamp (sec): 1687573411.714995384
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1167, 825, 3710, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1438991648, 1439341087, 1439690533, 1440039975, 0, 0, 0, 0]
+poll_tx_time: 1176452
+range_number: 197
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       354
+# timestamp (sec): 1687573411.794902325
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1200, 834, 3789, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1458959427, 1459308867, 1459658314, 1460007755, 0, 0, 0, 0]
+poll_tx_time: 1176532
+range_number: 198
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       355
+# timestamp (sec): 1687573411.876428604
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 877, 3789, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1478926719, 1479276160, 1479625607, 1479975047, 0, 0, 0, 0]
+poll_tx_time: 1176612
+range_number: 199
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       356
+# timestamp (sec): 1687573411.955107212
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1224, 830, 3705, 3949, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1498894569, 1499244010, 1499593456, 1499942897, 0, 0, 0, 0]
+poll_tx_time: 1176692
+range_number: 200
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       357
+# timestamp (sec): 1687573412.036482811
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 848, 3742, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1518861987, 1519211428, 1519560875, 1519910315, 0, 0, 0, 0]
+poll_tx_time: 1176772
+range_number: 201
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       358
+# timestamp (sec): 1687573412.115011930
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 792, 3733, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1538829765, 1539179205, 1539528652, 1539878093, 0, 0, 0, 0]
+poll_tx_time: 1176852
+range_number: 202
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       359
+# timestamp (sec): 1687573412.194458485
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 811, 3747, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1558797072, 1559146513, 1559495960, 1559845401, 0, 0, 0, 0]
+poll_tx_time: 1176932
+range_number: 203
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       360
+# timestamp (sec): 1687573412.276278019
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 858, 3794, 3935, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1578764796, 1579114237, 1579463683, 1579813125, 0, 0, 0, 0]
+poll_tx_time: 1177012
+range_number: 204
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       361
+# timestamp (sec): 1687573412.355644464
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 825, 3719, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1598732478, 1599081920, 1599431366, 1599780806, 0, 0, 0, 0]
+poll_tx_time: 1177092
+range_number: 205
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       362
+# timestamp (sec): 1687573412.435075283
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1172, 830, 3710, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1618700050, 1619049490, 1619398937, 1619748376, 0, 0, 0, 0]
+poll_tx_time: 1177172
+range_number: 206
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       363
+# timestamp (sec): 1687573412.515155554
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 797, 3724, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1638667608, 1639017048, 1639366494, 1639715934, 0, 0, 0, 0]
+poll_tx_time: 1177252
+range_number: 207
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       364
+# timestamp (sec): 1687573412.594824553
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1163, 834, 3747, 3911, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1658634928, 1658984367, 1659333815, 1659683254, 0, 0, 0, 0]
+poll_tx_time: 1177332
+range_number: 208
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       365
+# timestamp (sec): 1687573412.674800396
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 816, 3766, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1678602553, 1678951993, 1679301440, 1679650880, 0, 0, 0, 0]
+poll_tx_time: 1177412
+range_number: 209
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       366
+# timestamp (sec): 1687573412.755548477
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 830, 3733, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1698570333, 1698919773, 1699269220, 1699618660, 0, 0, 0, 0]
+poll_tx_time: 1177492
+range_number: 210
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       367
+# timestamp (sec): 1687573412.833939075
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1186, 769, 3714, 3958, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1718537751, 1718887192, 1719236637, 1719586078, 0, 0, 0, 0]
+poll_tx_time: 1177572
+range_number: 211
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       368
+# timestamp (sec): 1687573412.914638281
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 863, 3728, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1738505641, 1738855082, 1739204528, 1739553968, 0, 0, 0, 0]
+poll_tx_time: 1177652
+range_number: 212
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       369
+# timestamp (sec): 1687573412.995202780
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1205, 769, 3733, 3968, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1758473031, 1758822472, 1759171919, 1759521358, 0, 0, 0, 0]
+poll_tx_time: 1177732
+range_number: 213
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       370
+# timestamp (sec): 1687573413.074606657
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1181, 802, 3808, 3991, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1778440409, 1778789849, 1779139296, 1779488736, 0, 0, 0, 0]
+poll_tx_time: 1177812
+range_number: 214
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       371
+# timestamp (sec): 1687573413.156245708
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 778, 3794, 3963, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1798408243, 1798757683, 1799107131, 1799456570, 0, 0, 0, 0]
+poll_tx_time: 1177892
+range_number: 215
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       372
+# timestamp (sec): 1687573413.234740019
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1196, 820, 3808, 3953, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1818375855, 1818725295, 1819074742, 1819424182, 0, 0, 0, 0]
+poll_tx_time: 1177972
+range_number: 216
+
+# =======================================
+# topic:           /uwb_range_raw
+# msg_count:       373
+# timestamp (sec): 1687573413.315023422
+# - - -
+range_raw: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1191, 750, 3710, 3986, -1, -1, -1, -1]
+timestamp_resp_local: 
+  layout: 
+    dim: []
+    data_offset: 0
+  data: [1838343272, 1838692714, 1839042161, 1839391600, 0, 0, 0, 0]
+poll_tx_time: 1178052
+range_number: 217
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Total messages found:              373
+#
+#    /uwb_range_raw:                 373
+#
+# DONE.
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
