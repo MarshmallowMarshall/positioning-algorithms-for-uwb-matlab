@@ -9,11 +9,15 @@ addpath('..\exp_data\Optitrack_yaml\')
 
 %%%%%%%%%%%%%%%%%%%% REAL MEASUREMENT DATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load the logged Data 
+% getRangeUWB = importfile_Ranges('..\exp_data\UWB_data_Ranges\output_range_uwb_m2r.txt');
 getRangeUWB = extract_uwbrange_yaml('..\exp_data\UWB_data_Ranges\range_uwb_static3.yaml');
+% getRangeUWB = extract_uwbrange_yaml('exp_data\UWB_data_Ranges\range_uwb_static1.yaml');
 getRangeUWB = cellfun(@(arr) arr.', getRangeUWB, 'UniformOutput', false);  % 将每个数组转置为列向量
 getRangeUWB = [getRangeUWB{:}];  % 将列向量拼接为矩阵，每一列对应一个数组的元素，另外，每个元素的单位是毫米
 
 [rowR, colR] = size(getRangeUWB);
+% ts_R = getRangeUWB.ts;
+% tid  = getRangeUWB.tagID;       % tag ID no.
 r_t2A0 = getRangeUWB(1,:);      % tag to Anc0 measured values
 r_t2A1 = getRangeUWB(2,:);      % tag to Anc1 measured values
 r_t2A2 = getRangeUWB(3,:);      % tag to Anc2 measured values
