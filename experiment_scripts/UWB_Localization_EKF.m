@@ -9,20 +9,21 @@ classdef UWB_Localization_EKF
         vrpn_pos
         uwb_ts
         vrpn_ts
-        delta_t
+    end
+    properties(Constant)
+        % basic parameter
         A_2d = [4.22, -0.09; 3.72,  1.71; 0,  1.5; 0,  0];
+        delta_t= 0.08; % 单位为秒
     end
     
     methods
         function obj = UWB_Localization_EKF(uwbyamlfile,vrpnyamlfile)
-            % basic parameter
-            obj.delta_t= 0.08; % 单位为秒
             
             % find the necessary file
             addpath('..\');
             addpath('..\helper_functions');
             addpath('..\exp_data\UWB_data_Ranges');
-            addpath('..\exp_data\Optitrack_yaml\')
+            addpath('..\exp_data\Optitrack_yaml')
             
             % Load the logged Data 
             % e.g. uwb_positionstamped = extract_uwbrange_ts_yaml('..\exp_data\UWB_data_Ranges\range_uwb_moveleft.yaml');
@@ -45,8 +46,8 @@ classdef UWB_Localization_EKF
             obj.vrpn_pos= transformV2U(obj.vrpn_pos);
             obj.vrpn_pos= obj.vrpn_pos(:,1:2);
             % 提取测量时间戳，但暂时没用到就先注释了
-            obj.uwb_ts= UWB_Localization_EKF.ExtractTimestamp_(UWB_Calibration.uwb_positionstamped);
-            obj.vrpn_ts= UWB_Localization_EKF.ExtractTimestamp_(UWB_Calibration.vrpn_positionstamped);
+            obj.uwb_ts= UWB_Localization_EKF.ExtractTimestamp_(uwb_rangestamped);
+            obj.vrpn_ts= UWB_Localization_EKF.ExtractTimestamp_(vrpn_positionstamped);
             
         end
         
@@ -61,14 +62,18 @@ classdef UWB_Localization_EKF
 %             ekfObj.StateTransitionJacobianFcn = @obj.StateJacobianFcn_CV_;
 %             ekfObj.MeasurementJacobianFcn = @obj.MeasurementJacobianFcn_CV_;
 
-            ekfObj= extendedKalmanFilter(@citrackStateFcn,@citrackMeasurementFcn,initialStateGuess);
-            ekfObj.StateTransitionJacobianFcn = @citrackStateJacobianFcn;
-            ekfObj.MeasurementJacobianFcn = @citrackMeasurementJacobianFcn;
+%             ekfObj= extendedKalmanFilter(@citrackStateFcn,@citrackMeasurementFcn,initialStateGuess);
+%             ekfObj.StateTransitionJacobianFcn = @citrackStateJacobianFcn;
+%             ekfObj.MeasurementJacobianFcn = @citrackMeasurementJacobianFcn;
 
-%             ekfObj= extendedKalmanFilter(@UWB_Localization_EKF.StateTransitionFcn_CV_, @UWB_Localization_EKF.MeasurementFcn_CV_, initialStateGuess);
-%             ekfObj.StateTransitionJacobianFcn = @UWB_Localization_EKF.StateJacobianFcn_CV_;
-%             ekfObj.MeasurementJacobianFcn = @UWB_Localization_EKF.MeasurementJacobianFcn_CV_;
-            
+            ekfObj= extendedKalmanFilter(@UWB_Localization_EKF.StateTransitionFcn_CV_, @UWB_Localization_EKF.MeasurementFcn_CV_, initialStateGuess);
+            ekfObj.StateTransitionJacobianFcn = @UWB_Localization_EKF.StateJacobianFcn_CV_;
+            ekfObj.MeasurementJacobianFcn = @UWB_Localization_EKF.MeasurementJacobianFcn_CV_;
+
+%             ekfObj= extendedKalmanFilter(@StateTransitionFcn_CV_, @MeasurementFcn_CV_, initialStateGuess);
+%             ekfObj.StateTransitionJacobianFcn = @StateJacobianFcn_CV_;
+%             ekfObj.MeasurementJacobianFcn = @MeasurementJacobianFcn_CV_;
+                    
             ekfObj.MeasurementNoise = R_ekf;
             Q_ekf = diag([0.1 0.1 0.1 0.1]);
             ekfObj.ProcessNoise = Q_ekf;
@@ -197,9 +202,9 @@ classdef UWB_Localization_EKF
     end
     
     % EKF对象所用到的各种函数分开放在这里
-    methods
+    methods(Static)
         function x = StateTransitionFcn_CV_(x)
-           dt =obj.delta_t;
+           dt =UWB_Localization_EKF.delta_t;
            A = [1  0   dt  0;
                 0  1   0   dt;
                 0  0   1   0;
@@ -207,22 +212,22 @@ classdef UWB_Localization_EKF
            x = A * x;
         end
         function yk= MeasurementFcn_CV_(xk)
-            Anc_2D= obj.A_2d;
+            Anc_2D= UWB_Localization_EKF.A_2d;
             [nAnc, nDim] = size(Anc_2D);
             yk = zeros(nAnc, 1);
             for jj = 1 : nAnc
                 yk(jj) = sqrt((Anc_2D(jj, 1) - xk(1)).^2 + (Anc_2D(jj, 2) - xk(2)).^2);    
             end
         end
-        function dfdx= StateJacobianFcn_CV_()
-            dt= obj.delta_t;
+        function dfdx= StateJacobianFcn_CV_(xk)
+            dt= UWB_Localization_EKF.delta_t;
             dfdx = [1  0   dt  0;
                     0  1   0   dt;
                     0  0   1   0;
                     0  0   0   1];
         end
         function dhdx = MeasurementJacobianFcn_CV_(xk)
-            Anc_2D= obj.A_2d;
+            Anc_2D= UWB_Localization_EKF.A_2d;
             [nAnc, nDim] = size(Anc_2D);
             state_vec_len = length(xk);
             dhdx = zeros(nAnc, state_vec_len);
